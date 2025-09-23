@@ -8,4 +8,4 @@
 <br>
 ""'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''"
 
-[![text](https://github.com/MOrhan786/mrc-prctice-1/blob/main/1-2.png)](https://github.com/MOrhan786/mrc-prctice-1/blob/main/1-2.png "click and go to linkdin")
+[![text](https://github.com/MOrhan786/mrc-prctice-1/blob/main/1-2.png)](https://github.com/MOrhan786/mrc-prctice-1/blob/main/1-2.png "click and go to linkdin [![]()]()")
