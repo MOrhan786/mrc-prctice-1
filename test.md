@@ -7,3 +7,5 @@
 <br>"! ye image ko show krny k liya use hota or yahn image or tooltip ye sentextheeek h [![]()]()"
 <br>
 ""'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''"
+
+[![text](https://github.com/MOrhan786/mrc-prctice-1/blob/main/1-2.png)](https://github.com/MOrhan786/mrc-prctice-1/blob/main/1-2.png "click and go to linkdin")
