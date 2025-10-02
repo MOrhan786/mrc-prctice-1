@@ -10,4 +10,4 @@
 
 [![image](https://github.com/MOrhan786/mrc-prctice-1/blob/main/1-2.png)](https://www.linkedin.com/feed/ "click and go to linkdin [![]()]()")
 
-[![image](https://github.com/MOrhan786/mrc-prctice-1/blob/main/1-2.png)](https://www.linkedin.com/feed/ "clickable image and go to linkdin")
+[![image](https://github.com/MOrhan786/mrc-prctice-1/blob/main/1-2.png "clickable image and go to linkdin")](https://www.linkedin.com/feed/ )
